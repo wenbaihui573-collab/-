@@ -1,0 +1,7 @@
+{
+  "name": "共绘家园 (Co-Design)",
+  "description": "A participatory design platform for community public spaces, empowering residents to co-create parks, squares, and streets using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
